@@ -1,0 +1,18 @@
+-d
+"D:\\Library Management System\\build\\classes"
+-classpath
+"D:\\Library Management System\\build\\classes;C:\\Users\\KAYE\\Downloads\\mysql-connector-java-5.1.49\\mysql-connector-java-5.1.49\\mysql-connector-java-5.1.49.jar;C:\\Users\\KAYE\\Downloads\\jcalendar-1.4\\lib\\jcalendar-1.4.jar"
+-sourcepath
+"D:\\Library Management System\\src"
+-target
+14
+-encoding
+UTF-8
+-g
+-processorpath
+"C:\\Users\\KAYE\\Downloads\\mysql-connector-java-5.1.49\\mysql-connector-java-5.1.49\\mysql-connector-java-5.1.49.jar;C:\\Users\\KAYE\\Downloads\\jcalendar-1.4\\lib\\jcalendar-1.4.jar;D:\\Library Management System\\build\\empty"
+-s
+"D:\\Library Management System\\build\\generated-sources\\ap-source-output"
+-source
+14
+"D:\\Library Management System\\src\\login.java"
